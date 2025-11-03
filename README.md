@@ -4,7 +4,7 @@ Warsaw, Poland
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amalgil/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/amalgil)
-![HackerRank](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.hackerrank.com/profile/amal_gil233)
+![HackerRank](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=hackerRank&logoColor=white)](https://www.hackerrank.com/profile/amal_gil233)
 
 
 ---
