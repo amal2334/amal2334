@@ -71,7 +71,7 @@ Python • Jupyter • SQL Server • Power BI • Git & GitHub • Excel • Po
 
 -----
 
-### 💰 [Insurance Risk & Claims Analysis] ( https://github.com/amal2334/Insurance-Analysis)
+### 💰 [Insurance Risk & Claims Analysis]( https://github.com/amal2334/Insurance-Analysis)
 🔹 **Tools:** Power BI • SQL • Excel  
 🔹 **Focus:** Data Cleaning • KPI Development • Risk & Claims Visualization • Business Insights  
 
