@@ -69,6 +69,18 @@ Python • Jupyter • SQL Server • Power BI • Git & GitHub • Excel • Po
 
 💡 *Showcases my technical precision in Power BI and my ability to turn raw data into business value.*
 
+-----
+**Insurance Risk & Claims Analysis**  
+🔹 **Tools:** Power BI • SQL • Excel  
+🔹 **Focus:** Data Cleaning • KPI Development • Risk & Claims Visualization • Business Insights  
+
+Consolidated and cleaned scattered policy and claims data from multiple sources.  
+Developed DAX-based KPIs to measure total policies, claim frequency, and average claim amount.  
+Built an interactive Power BI dashboard to analyze customer demographics, vehicle usage, and regional risk exposure.  
+Uncovered key trends in claim behavior to support data-driven underwriting and pricing decisions.  
+💡 Demonstrates my ability to transform raw data into strategic insights through analytical modeling and visualization.
+
+
 ---
 
 ## 🎯 Why These Projects Matter
