@@ -80,7 +80,7 @@ Python • Jupyter • SQL Server • Power BI • Git & GitHub • Excel • Po
 - Built an interactive Power BI dashboard to analyze customer demographics, vehicle usage, and regional risk exposure.  
 - Uncovered key trends in claim behavior to support data-driven underwriting and pricing decisions.
    
-💡 *Demonstrates my ability to transform raw data into strategic insights through analytical modeling and visualization.
+💡 *Demonstrates my ability to transform raw data into strategic insights through analytical modeling and visualization.*
 
 ---
 
